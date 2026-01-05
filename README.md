@@ -4,8 +4,8 @@
       <img
         src="https://github.com/user-attachments/assets/619ed5ec-b8e9-494b-b02a-18b754ba8e2b"
         alt="Mit Jain"
-        width="180"
-        height="180"
+        width="220"
+        height="220"
       />
     </td>
     <td>
@@ -22,7 +22,7 @@
     </td>
   </tr>
 </table>
-make it size lookmore igger and make ianeg fir insid ehtta  whoel sdciton of atbel
+
 <br/><br/>
 
 <p align="center">
