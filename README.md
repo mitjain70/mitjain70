@@ -4,8 +4,8 @@
       <img
         src="https://github.com/user-attachments/assets/619ed5ec-b8e9-494b-b02a-18b754ba8e2b"
         alt="Mit Jain"
-        width="300"
-        height="300"
+        width="500"
+        height="500"
       />
     </td>
     <td>
