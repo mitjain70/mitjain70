@@ -1,19 +1,19 @@
-<table role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+<table role="presentation" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="300" align="center">
+    <td width="220" align="center">
       <img
         src="https://github.com/user-attachments/assets/619ed5ec-b8e9-494b-b02a-18b754ba8e2b"
         alt="Mit Jain"
-        width="220"
-        height="220"
+        width="180"
+        height="180"
       />
     </td>
-    <td align="center">
+    <td>
       <div align="center">
         <h1>
           <a href="https://github.com/luffyy01">
             <img
-              src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&size=35&pause=600&color=22D3EE&width=600&lines=Mit+Jain+-+Competitive+Programmer"
+              src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&size=30&pause=600&color=22D3EE&width=540&lines=Mit+Jain+-+Competitive+Programmer"
               alt="Typing SVG"
             />
           </a>
@@ -22,7 +22,7 @@
     </td>
   </tr>
 </table>
-
+make it size lookmore igger and make ianeg fir insid ehtta  whoel sdciton of atbel
 <br/><br/>
 
 <p align="center">
