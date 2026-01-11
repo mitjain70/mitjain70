@@ -93,11 +93,11 @@ Passionate about **Problem Solving**, **Competitive Programming**, and **AI / ML
 
 - **Platform:** Codeforces  
 - **Handle:** `luffyy01`  
-- **Rating:** **1136**
+- **Rating:** **1156**
 
 <br/>
 
-[![Codeforces](https://img.shields.io/badge/CF-1136-blue?style=flat-square&logo=codeforces)](https://codeforces.com/profile/luffyy01)
+[![Codeforces](https://img.shields.io/badge/CF-1156-blue?style=flat-square&logo=codeforces)](https://codeforces.com/profile/luffyy01)
 
 <br/><br/>
 
